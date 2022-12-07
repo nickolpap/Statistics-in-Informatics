@@ -1,0 +1,102 @@
+motorcycle	sex	age	locker	satisfaction	smart	interesting	benefits	amount of money	useful
+Yes	Man	16	Yes		Yes		GPS, Nearby Parking spaces, Electronic form of necessary documents (driving license, security, etc.)	50-80	5
+No	Woman	17	No		Yes		Nearby Parking spaces, Notification of any violation	80-100	4
+No	Woman	19	No						
+No	Woman	16	No		No		Notification of any violation	30-50	4
+No	Woman	16	No		Maybe		GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	30-50	5
+No	Woman	20	No		Yes		GPS, Notification of any violation	50-80	4
+No	Woman	17	Yes	5	No		Notification of any violation	30-50	1
+No	Woman	22	No	1	Maybe		GPS, Nearby Parking spaces	50-80	5
+No	Man	21	No						
+No	Woman	21	No		Maybe		GPS, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	100+	5
+No	Man	21	Yes	3			GPS, Nearby Parking spaces, Notification of any violation	30-50	2
+No	Man	20	No				GPS	30-50	1
+No	Woman	21	Yes	3	Yes		GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	80-100	5
+No	Woman	21	Yes	2	No	Yes	GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	30-50	5
+No	Man	16	Yes	3	No		GPS, Notification of any violation	80-100	5
+No	Woman	21	No				GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	50-80	4
+No	Man	17							
+Yes	Man	18	No			No	GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	80-100	5
+No	Man	19	Yes	5	No	No	Nearby Parking spaces	50-80	5
+No	Woman	20	Yes	3	No	Yes	Electronic form of necessary documents (driving license, security, etc.)	50-80	5
+No	Woman	20	No						
+Yes	Man	16	Yes	2	No	Yes	GPS	30-50	5
+No	Man	16	Yes	2	No	Yes	GPS, Notification of any violation	30-50	4
+Yes	Man	18	No			Yes	GPS, Notification of any violation	30-50	5
+Yes	Man	19	Yes	4	No	No	Notification of any violation	100+	5
+Yes	Man	19	Yes	5	Yes	No	GPS	50-80	5
+No	Man	21	No		No	Maybe	GPS	30-50	4
+Yes	Man	21	Yes	2	No	No	Notification of any violation	50-80	3
+Yes	Man	21	Yes	1	No	No	Electronic form of necessary documents (driving license, security, etc.)	30-50	5
+Yes	Man	21	No			Maybe	GPS, Notification of any violation	50-80	4
+Yes	Man	22	Yes	3	No	Maybe	Electronic form of necessary documents (driving license, security, etc.)	50-80	4
+Yes	Man	22	Yes	3	No	Maybe	Electronic form of necessary documents (driving license, security, etc.)	50-80	4
+No	Woman	23	Yes	4	No	Yes	GPS, Nearby Parking spaces, Notification of any violation	100+	4
+No	Woman	24	No		No	No			
+Yes	Man	24	Yes	4	No	Yes	Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	50-80	5
+Yes	Man	25	Yes	2	No	Yes	GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	80-100	4
+No	Man	16	No	1	No	Maybe	Electronic form of necessary documents (driving license, security, etc.)	30-50	5
+Yes	Man	27	Yes	3	No	Yes	GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	50-80	5
+No	Man	27	No	5	No	Yes		100+	5
+No	Man	22	Yes	3	No	Yes	GPS, Nearby Parking spaces, Notification of any violation	80-100	5
+Yes	Man	22	Yes	4	No	Yes	GPS, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	80-100	4
+No	Woman	20	No	3	No	No	GPS	30-50	2
+Yes	Man	17	No						5
+Yes	Woman	18	Yes	2	No	Yes	GPS, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	50-80	5
+No	Man	18	No					30-50	
+No	Woman	19	No						5
+No	Man	20	No				GPS		5
+Yes	Man	21	Yes	5	Yes	Yes	GPS, Nearby Parking spaces, Notification of any violation	30-50	5
+No	Man	21	Yes	3	No	Maybe	Notification of any violation	50-80	4
+No	Woman	26	No			Maybe	Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	50-80	5
+Yes	Man	26	Yes	3	No	Yes	GPS, Notification of any violation	50-80	4
+No	Man	40	No		No	No	GPS, Notification of any violation	50-80	4
+Yes	Woman	45	No		No	Maybe	GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	30-50	5
+No	Woman	45	No	1	No	No	Notification of any violation	30-50	1
+No	Man	22	Yes	4	No	Yes	GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	30-50	5
+No	Man	22	Yes	3	No	Maybe	Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	30-50	3
+No	Man	26	No	3	No	Yes	Nearby Parking spaces	30-50	3
+No	Man	26	No		No	No	Nearby Parking spaces	30-50	3
+No	Man	24	No			Yes	Notification of any violation	50-80	3
+No	Woman	21	No			Maybe		30-50	4
+No	Man	21	Yes	2	Yes	Yes	Electronic form of necessary documents (driving license, security, etc.)	50-80	4
+Yes	Man	20	Yes	4	No	Maybe	GPS, Notification of any violation	80-100	4
+Yes	Man	20	Yes	4	Yes	Yes	GPS, Nearby Parking spaces	30-50	5
+No	Woman	20	Yes	4	No	Yes			
+Yes	Woman	40	Yes	5	Yes	Yes	Notification of any violation	50-80	5
+No	Woman	40	Yes	4	No	Yes	Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	50-80	5
+No	Man	22	No	5	No	Maybe	GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	30-50	5
+No	Man	23	No			Maybe	GPS, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	50-80	5
+No	Man	23	Yes	3	No	Yes	GPS	80-100	4
+No	Man	21	No						
+No	Man	21	Yes	3	No	Maybe	GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	50-80	3
+No	Woman	21	No				GPS		
+No	Man	21	Yes	4	Yes	Maybe	Nearby Parking spaces, Notification of any violation	50-80	3
+No	Man	21	No	4	No	Maybe	Notification of any violation	50-80	4
+No	Man	21	Yes	4	No	Yes	GPS, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	30-50	3
+No	Man	22	No	1	No	No	GPS	30-50	4
+Yes	Man	24	No			Maybe	GPS, Notification of any violation	50-80	4
+No	Man	24	Yes	5	No	Maybe		30-50	5
+Yes	Man	22	Yes	3	No	Maybe	GPS, Nearby Parking spaces, Notification of any violation	80-100	5
+Yes	Man	22	No			Maybe	GPS, Nearby Parking spaces, Notification of any violation	50-80	3
+No	Woman	50	No	4	No	Maybe	GPS, Nearby Parking spaces	30-50	4
+No	Man	52				Maybe	GPS, Nearby Parking spaces, Electronic form of necessary documents (driving license, security, etc.)	50-80	4
+No	Woman	19	No		No	Maybe	GPS, Nearby Parking spaces, Electronic form of necessary documents (driving license, security, etc.)	80-100	5
+No	Man	19	No			Maybe	GPS, Nearby Parking spaces	30-50	4
+No	Man	19	No	1	No	Maybe	Electronic form of necessary documents (driving license, security, etc.)	50-80	5
+No	Man	52	No		No	Yes	GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	30-50	4
+Yes	Man	26	Yes	3	No	No	GPS, Notification of any violation	50-80	5
+No	Man	26	No		No	Yes	Nearby Parking spaces, Electronic form of necessary documents (driving license, security, etc.)	30-50	4
+Yes	Woman	26	Yes	2	No	Maybe	GPS, Notification of any violation	50-80	5
+No	Woman	20							
+No	Man	20	No	1	No	No	Notification of any violation	80-100	5
+Yes	Man	20	Yes	3	No	Yes	GPS, Notification of any violation	80-100	5
+No	Man	22	No						
+No	Man	22	No			Maybe	Nearby Parking spaces, Notification of any violation	50-80	4
+Yes	Woman	24	Yes	3	No	Yes	Notification of any violation	50-80	5
+No	Woman	24	No	1	No	No		30-50	2
+No	Man	24	Yes	4	No	Yes	GPS, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	30-50	5
+No	Man	22	Yes	4	No	Yes	Nearby Parking spaces	30-50	5
+No	Man	24	Yes	4	No	Maybe	Notification of any violation	50-80	4
+No	Woman	22	Yes	3	No	Yes	GPS, Nearby Parking spaces, Notification of any violation, Electronic form of necessary documents (driving license, security, etc.)	50-80	4
+no	Man	21	Yes	3	No	Maybe	GPS	30-50	3
